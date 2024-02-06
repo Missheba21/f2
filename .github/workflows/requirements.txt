@@ -1,1 +1,6 @@
 
+keras
+pandas
+pandas-datareader
+matplotlib
+
